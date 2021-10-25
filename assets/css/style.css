@@ -637,7 +637,7 @@ button{
 .footer__logo{
     display: flex;
     align-items: center;
-    column-gap: .5rem;
+    column-gap: .8rem;
     margin-bottom: var(--mb-1);
     font-weight: var(--font-medium);
     color: var(--title-color);
@@ -903,7 +903,7 @@ button{
         padding-right: 2rem;
     }
     .category__container{
-    column-gap: 8rem;
+        column-gap: .8rem;
     }
     .category__img{
         width: 200px;
